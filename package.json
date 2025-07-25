@@ -1,0 +1,24 @@
+{
+  "name": "inventory-system",
+  "version": "1.0.0",
+  "main": "backend_models_AuditLog_Version3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashem999-x/inventory-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashem999-x/inventory-system/issues"
+  },
+  "homepage": "https://github.com/hashem999-x/inventory-system#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4"
+  }
+}
